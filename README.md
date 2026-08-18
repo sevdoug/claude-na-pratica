@@ -64,3 +64,4 @@ Quando pegar o ritmo: transforme as rotinas repetitivas do seu time em
 
 ---
 
+Me acompanha no Instagram: [@douglassevero.ia](https://www.instagram.com/douglassevero.ia/)
