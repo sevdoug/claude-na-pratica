@@ -27,6 +27,9 @@ construído ao vivo, organizado na mesma ordem da nossa jornada:
 [`docs/deck-turno1.pdf`](docs/deck-turno1.pdf) — os slides completos do
 treinamento.
 
+Cheatsheets para deixar do lado do teclado:
+[hooks](docs/cheatsheet-hooks.pdf) e [tools](docs/cheatsheet-tools.pdf).
+
 ### 🔁 O agente em ~25 linhas
 
 [`agente-loop/`](agente-loop/) — a demo executável de que um agente é só um
@@ -45,6 +48,7 @@ casa — você só precisa de Node e uma API key da Anthropic.
 | [04 — Comando /commit](docs/04-comando-commit.md) | Como criamos um slash command pedindo para o próprio Claude escrevê-lo. |
 | [05 — Skills do projeto](docs/05-skills-do-projeto.md) | Os 4 prompts que geraram as skills do helpdesk (Prisma, Next 16, Playwright, commits) e o padrão por trás deles. |
 | [06 — Links úteis](docs/06-links-uteis.md) | As ferramentas citadas no treinamento, com uma linha sobre cada uma. |
+| [07 — Subagentes e workflows](docs/07-subagentes-workflows.md) | O pipeline doc-driven completo: prompts portáveis para gerar os agentes analista, arquiteto, implementador, reviewer e uat — e os comandos que os orquestram. |
 
 ## Por onde começar
 
@@ -60,7 +64,9 @@ Se você só tem 30 minutos:
 
 Quando pegar o ritmo: transforme as rotinas repetitivas do seu time em
 [comandos](docs/04-comando-commit.md) e o conhecimento do projeto em
-[skills](docs/05-skills-do-projeto.md).
+[skills](docs/05-skills-do-projeto.md). E quando isso ficar natural, monte o
+[pipeline de subagentes](docs/07-subagentes-workflows.md) — é aí que o Claude
+deixa de ser assistente e vira processo de time.
 
 ---
 
