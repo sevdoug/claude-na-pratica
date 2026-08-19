@@ -49,6 +49,7 @@ casa — você só precisa de Node e uma API key da Anthropic.
 | [05 — Skills do projeto](docs/05-skills-do-projeto.md) | Os 4 prompts que geraram as skills do helpdesk (Prisma, Next 16, Playwright, commits) e o padrão por trás deles. |
 | [06 — Links úteis](docs/06-links-uteis.md) | As ferramentas citadas no treinamento, com uma linha sobre cada uma. |
 | [07 — Subagentes e workflows](docs/07-subagentes-workflows.md) | O pipeline doc-driven completo: prompts portáveis para gerar os agentes analista, arquiteto, implementador, reviewer e uat — e os comandos que os orquestram. |
+| [08 — Hooks na prática](docs/08-hook-confine-worktree.md) | Um hook real de PreToolUse que impede o agente de escrever fora da worktree — e o que ele ensina sobre garantir comportamento em vez de pedir. |
 
 ## Por onde começar
 
